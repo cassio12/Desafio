@@ -23,7 +23,6 @@
       <h3 class="comentarios-h3">Comentáros</h3>
     </div>
     <div class="comentarios-linha"></div>
-
     <div id="app">
     <div>
     </div>
@@ -36,10 +35,7 @@
         <input class="caixa-comentario" v-model="recado" v-on:keyup.enter="addRecado">
       </label>
     </div>
-  
     </div>
-
-
   </div>
 </section>
 </template>
@@ -61,7 +57,6 @@ export default {
              this.recado = ''
       }
     }
-
 }
 </script>
 
