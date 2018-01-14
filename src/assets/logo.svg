@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="125 17 127 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 26px;
+        font-family: LoveloBlack, Lovelo;
+      }
+    </style>
+  </defs>
+  <text id="logo" class="cls-1" transform="translate(125 42)"><tspan x="0" y="0">Fakenews</tspan></text>
+</svg>

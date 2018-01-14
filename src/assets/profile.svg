@@ -1,0 +1,18 @@
+<svg id="profile" xmlns="http://www.w3.org/2000/svg" viewBox="23 800.541 64.459 64.459">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e4e4e4;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 32px;
+        font-family: OpenSans-Bold, Open Sans;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-1" cx="32.229" cy="32.229" rx="32.229" ry="32.229" transform="translate(23 800.541)"/>
+  <text id=":_" data-name=":)" class="cls-2" transform="translate(45.139 842.499)"><tspan x="0" y="0">:)</tspan></text>
+</svg>
